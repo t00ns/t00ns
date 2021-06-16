@@ -3,7 +3,7 @@
      
 👀 I’m a digital & Product designer who to codes.
 
-🌱 I’m currently learning vanilla JS, P5js & React.
+🌱 I’m currently learning vanilla JS & React.
 💞️ I’m looking to collaborate on projects that helps folks with their daily lives while also bringing them joy.
 📫 you can reach out to me on twitter: @dekum0de or on IG: @t00n5s.
 
