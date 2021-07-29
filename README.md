@@ -3,9 +3,9 @@
      
 👀 I’m a Digital & Product Designer who to codes. My background also includes Graphic/Visual Design work too.
 
-🌱 I’m currently learning JavaScript & React.
-💞️ I’m looking to collaborate on projects that helps folks with their daily lives while also bringing them joy.
-📫 you can reach out to me on IG: @t00ns.ugh
+🌱 I’m currently learning JavaScript & React.<br>
+💞️ I’m looking to collaborate on projects that helps folks with their daily lives while also bringing them joy.<br>
+📫 you can reach out to me on IG: @t00ns.ugh<br>
 
 <!---
 t00ns/t00ns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
