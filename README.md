@@ -1,5 +1,5 @@
 👋 Hi, I’m @t00ns on the internet, Deniah IRL.
-     my pronouns are she / her.
+     my pronouns are she / they.
      
 👀 I’m a Digital & UX/UI Designer who to codes. My background includes Graphic/Visual Design work too.
 
