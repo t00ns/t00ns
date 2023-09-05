@@ -1,7 +1,7 @@
 👋 Hi, I’m @t00ns on the internet, Deniah IRL.
      my pronouns are she / they.
      
-👀 I’m a Digital & UX/UI Designer who to codes. My background includes Graphic/Visual Design work too.
+👀 I’m a designer who codes. Currently plays with code during my free time.
 
 all socials here on my readme repo: https://t00ns.github.io/readme/
 
